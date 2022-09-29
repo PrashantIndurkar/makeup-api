@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node server.js",
-    "serve-json": "json-server --watch products.json --port 4000"
+    "start": "node server.js"
   },
   "author": "prashant indurkar",
   "license": "ISC",
