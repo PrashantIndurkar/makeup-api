@@ -1,47 +1,57 @@
 [
   {
+    "id": 1,
     "productTypeImg": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwa0a9cf48/ProductImages/2016/Face/Sweet_Cheeks_Blush_Palette/sweetcheeksblushpalette_main.jpg?sw=390&sh=390&sm=fit",
     "productTypeName": "Blush"
   },
   {
+    "id": 2,
     "productTypeImg": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw5248da3f/ProductImages/Face/Illuminator/800897809003_illuminator_narcissistic_main.jpg?sw=390&sh=390&sm=fit",
     "productTypeName": "Bronzer"
   },
 
   {
+    "id": 3,
     "productTypeImg": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwe10bfffa/ProductImages/Eyes/Eyebrow_Marker/eyebrowmarker_main.jpg?sw=390&sh=390&sm=fit",
     "productTypeName": "Eyebrow"
   },
 
   {
+    "id": 4,
     "productTypeImg": "https://www.smashbox.com/media/images/products/388x396/sbx_sku_52687_388x396_0.jpg",
     "productTypeName": "Eyeliner"
   },
   {
+    "id": 5,
     "productTypeImg": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/390/100/0/packshots%252FPDG_Y9185280_F918528000.jpg",
     "productTypeName": "Eyeshadow"
   },
   {
+    "id": 6,
     "productTypeImg": "https://www.clinique.com/media/export/cms/products/181x209/clq_6MNY_181x209.png",
     "productTypeName": "Foundation"
   },
 
   {
+    "id": 7,
     "productTypeImg": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw2696bfe3/ProductImages/2017/Lips/Slide_On_Lip_Pencil_2017/slideonlippencil_main.jpg?sw=390&sh=390&sm=fit",
     "productTypeName": "Lip liner"
   },
 
   {
+    "id": 8,
     "productTypeImg": "https://cdn.shopify.com/s/files/1/1338/0845/products/brain-freeze_a_800x1200.jpg?v=1502255076",
     "productTypeName": "Lipstick"
   },
 
   {
+    "id": 9,
     "productTypeImg": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw8044f7e7/ProductImages/Eyes/Color_Mascara/colormascara_main.jpg?sw=390&sh=390&sm=fit",
     "productTypeName": "Mascara"
   },
 
   {
+    "id": 10,
     "productTypeImg": "https://d3t32hsnjxo7q6.cloudfront.net/i/69ca8bd686b0c24e44a2033f4aacf035_ra,w158,h184_pa,w158,h184.jpg",
     "productTypeName": "Nail polish"
   }
